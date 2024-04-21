@@ -14,6 +14,7 @@ For each choice, there is shell scipt provided in the `occupancy-grid-management
 To create a local docker image, run,
 
 ```bash
+chmod +x ./docker/setup_docker.sh    # make it executable
 ./docker/setup_docker.sh
 ```
 
@@ -22,6 +23,7 @@ To create a local docker image, run,
 Run the server container,
 
 ```bash
+chmod +x ./docker/enter_container.sh    # make it executable
 ./docker/enter_container.sh
 ```
 
