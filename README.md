@@ -31,7 +31,7 @@ pip install python-dotenv
 Clone this repository,
 
 ```bash
-git clone https://github.com/yourusername/occupancy-grid-management.git
+git clone https://github.com/Ahmed-Mujtaba-98/occupancy-grid-managment.git
 cd occupancy-grid-management/
 ```
 
