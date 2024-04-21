@@ -6,9 +6,9 @@ To run the occupancy-grid-management application inside the docker container, yo
 - Create your docker image locally and enter inside the container to run the client/server code.
 - Pull the pre-compiled image from the docker hub and enter inside the container to run the client/server code.
 
-For each choice, there is shell scipt provided in the `occupancy-grid-management/docker` folder.
+For each choice, there is shell scipt provided in the `occupancy-grid-managment/docker` folder.
 
-**Note that all the shell scripts must be run from the parent directory, i.e., `occupancy-grid-management/`**
+**Note that all the shell scripts must be run from the parent directory, i.e., `occupancy-grid-managment/`**
 
 ## Create Local Docker Image
 To create a local docker image, run,
