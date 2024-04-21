@@ -31,8 +31,8 @@ pip install python-dotenv
 Clone this repository,
 
 ```bash
-git clone https://github.com/Ahmed-Mujtaba-98/occupancy-grid-managment.git
-cd occupancy-grid-managment/
+git clone https://github.com/Ahmed-Mujtaba-98/occupancy-grid-management.git
+cd occupancy-grid-management/
 ```
 
 Create a `.env` file in the same directory as your scripts with the following content:
@@ -75,12 +75,12 @@ python client.py
 ```
 
 ## 4. Running the example
-The example code in the `occupancy-grid-managment/example` folder contains hardcoded values for the occupancy at specific coordinate(s) for clients, i.e., [sensor 1](./example/sensor_one.py) and [sensor 2](./sensor_two.py), and communicate with the [server](./example/server.py).
+The example code in the `occupancy-grid-management/example` folder contains hardcoded values for the occupancy at specific coordinate(s) for clients, i.e., [sensor 1](./example/sensor_one.py) and [sensor 2](./sensor_two.py), and communicate with the [server](./example/server.py).
 
-Open terminal and head to the `occupancy-grid-managment/example`,
+Open terminal and head to the `occupancy-grid-management/example`,
 
 ```bash
-cd occupancy-grid-managment/example
+cd occupancy-grid-management/example
 ```
 
 Start the server:
